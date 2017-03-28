@@ -15,4 +15,5 @@ SULMS integrates the following systems.
 In SULMS, **Missile** is powered by Solid Propellant, and **Armature** is powered by Lorentz (Electromagnetic) force.
 *Lorentz force* can be explained pictorially from the following figure.
 
+
 <img src= "/images/sulms/lorentz force.jpg" width= "500px">
