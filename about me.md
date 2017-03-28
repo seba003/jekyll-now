@@ -8,6 +8,7 @@ permalink: /about/
 "Excellence is a continuous Process, *not an accident*. Man needs his **difficulties** because they are neccessary to enjoy **success**. -*APJ Abdul Kalam*
 
 
+
 **My Personal Details**
 
 sebastinaero@gmail.com
@@ -87,7 +88,7 @@ National Conferences
 A.M.I.E. - Associate Member of Institution of Engineers (India)
 
 
-#Current Position
+### Current Position
 
 I am doing an innovative project, "**Experimental Investigation of underwater Missile Launching System**" at *Madras Institute of Technology, Chennai*. This Project is selected and funded by *Institution of Engineers-India*, R&D scheme.
 
