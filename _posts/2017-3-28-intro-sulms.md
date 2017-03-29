@@ -2,7 +2,6 @@
 layout: post
 title: Introduction of SULMS
 ---
-# Introduction of SULMS:
   Long ago, we started the Aero -Propulsion with Piston type engines. Currently, we aware of piston type propulsion, turbine type propulsion, duct type propulsion, chemical propulsion, nuclear propulsion, solar propulsion, laser propulsion, and advanced electric propulsion. 
 
   I am interested in the electric propulsion added with an essential flavour called “Lorentz Force. **SULMS** means **Scaled Underwater Launching Missile System**. The proposed SULMS system is based on travel of the missile in underwater and above the surface of water i.e., through the atmosphere. 
