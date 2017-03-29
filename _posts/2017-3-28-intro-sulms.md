@@ -2,18 +2,19 @@
 layout: post
 title: Introduction of SULMS
 ---
-**SULMS** means **Scaled Underwater Launched Missile System**. Aerospace pilots (Masters) are looking for *Advanced Propulsion* concepts, mainly in **Electric Propulsion**. I am interested in the same electric propulsion added with a essential flavour called "**Lorentz Force**. 
-The SULMS system is based on travel of the missile in underwater and above the surface of water i.e., through the atmosphere. The Electromagnetic launching system generates Lorentz force to accelerate the missile through the water. Once the missile surfaces above water, it will be powered by its own chemical energy.
+# Introduction of SULMS:
+  Long ago, we started the Aero -Propulsion with Piston type engines. Currently, we aware of piston type propulsion, turbine type propulsion, duct type propulsion, chemical propulsion, nuclear propulsion, solar propulsion, laser propulsion, and advanced electric propulsion. 
 
-<img src= "/images/sulms/K-15 missilejpg.jpg" width="500px">
+  I am interested in the electric propulsion added with an essential flavour called “Lorentz Force. **SULMS** means **Scaled Underwater Launching Missile System**. The proposed SULMS system is based on travel of the missile in underwater and above the surface of water i.e., through the atmosphere. 
 
-SULMS integrates the following systems.
+The scope of my project is all about the experimentation of underwater launching missile technology. A ballistic missile capable of being launched from underwater is proposed here as SULMS.  See more about [submarine missiles](https://en.wikipedia.org/wiki/Submarine-launched_ballistic_missile)
 
-1. Missile 
-2. Armature
+The entire system is subdivided into two units, and it is again integrated as one system. These are,
 
-In SULMS, **Missile** is powered by Solid Propellant, and **Armature** is powered by Lorentz (Electromagnetic) force.
-*Lorentz force* can be explained pictorially from the following figure.
+* Chemical Propulsion unit
+* Electric Propulsion unit
 
+Solid propellants are used in the chemical propulsion unit, since solid propellant can remain in storage for long periods, and then reliably launch on short notice, they have been frequently used in military applications such as missiles. Capacitor bank is used in the electric propulsion unit, since SULMS needs electromagnetic force to propel the missile from underwater. 
 
-<img src= "/images/sulms/lorentz force.jpg" width= "500px">
+The forecasting model of SULMS is shown in the below figure.
+<img src= "/images/sulms/sulms model.jpg" width= "500px">
