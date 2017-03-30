@@ -10,6 +10,7 @@ permalink: /about/
 
 
 **My Personal Details**
+
 [e-mail](sebastinaero@gmail.com)
 contact:7639972833
 D.O.B:04.06.1992
