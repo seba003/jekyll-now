@@ -171,34 +171,6 @@ The Lorentz force is created as a result of current flow through the armature wh
 17 capacitors were connected in parallel, which had a capacitance of 470 µF, 220V DC.
 The electrical energy stored in the capacitor is potential energy. Capacitor’s potential energy is equal to the projectile’s kinetic energy. “All of the P.E. from the capacitors is converted into K.E.
 
-K.E. = P.E.
-
-K.E. = 0.5*m*v2
-
-Armature mass m=30g (experimental reading)
-The stored energy in the capacitor bank is E = (0.5*C*V2)
-
-Cequ = (C1+C2+…)
-Cequ =7.99*10-3F
-
-E=0.5*7.99*10-3*2202
-
-*E=193.358 joules or 193.358 N-m*
-
-Charge Q = C*V
-Q=7.99*10-3*220
-
-*Q=1.7578 coulombs*
-
-193.358 = 0.5*30*10-3*v2
-
-*Velocity = 113.53648 m/s*
-
-Capacitor bank charging time, t= R*C
-R=15K-Ω; C= Cequ =7.99*10-3F
-
-*t=119.85seconds*
-
 An attempt is made to study **Electromagnetic force** experimentally.
 
 
