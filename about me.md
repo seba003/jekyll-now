@@ -10,21 +10,17 @@ permalink: /about/
 
 
 **My Personal Details**
+[e-mail](sebastinaero@gmail.com)
+contact:7639972833
+D.O.B:04.06.1992
+Father: A.John
+Mother: J.Mariya Arockiam
+Blood group: B +ve
+Address: Nedodai, Puliyadi thammam post, Sivaganga DT-630405, Tamilnadu, India.
 
-sebastinaero@gmail.com
+**Current Position**
 
-Cell.No:7639972833
-
-D.O.B: 04-06-1992
-
-Father: JOHN.A
-
-Mother: MARIA AROCKIAM.J
-
-Blood Group: B +ve
-
-Address: Nedodai, Puliyadi Thammam Post, Sivaganga DT-630405, Tamilnadu.
-
+I am doing a project, "**Experimental Investigation of underwater Missile Launching System**" at *Madras Institute of Technology, Chennai*. This Project is funded by *Institution of Engineers-India*, R&D scheme.
 
 **Education** 
 
@@ -46,14 +42,6 @@ Aerospace Propulsion, Composite materials, Aircraft Design, Gas dynamics, Heat T
 
 ANSYS 15, AutoCAD, C –Program. 
 
-**Mini projects**
-
-1. Solid Propellant making and Vertical launching
-2. Medical Quad copter
-3. Inverter for home application with IR remote control
-4. RF Module for wireless Electronic Igniter
-5. Gardening Rover with Rocker-Bogie Suspension  
- 
 **Achievements**
 
 * GATE 2015 – AIR rank 398 – Aerospace Engineering
@@ -68,12 +56,13 @@ ANSYS 15, AutoCAD, C –Program.
 3.	Elsevier, ICACC [www.sciencedirect.com](www.sciencedirect.com) - Smart Autonomous Gardening Rover with Plant Recognition using Neural Networks.
 
 **Conferences**
-International Conferences
+
+*International Conferences*
 
 1.	6th International Conference On Advances In Computing & Communications, ICACC 2016, 6-8 September 2016, Cochin, India.
 2.	International Conference On Mathematical Sciences & Engineering Applications, ICMSEA -2016, on 23-25 December 2016, Vizag, India.
 
-National Conferences
+*National Conferences*
 
 1.	Sathyabama University, Chennai-  polyphenylene Sulpide (PPS) Composites. ISBN NO: 978-81-922119-1-6
 2.	SRM University, Chennai- Review of Polyphenelene Sulphide Composites in Aerospace Applications- ISBN NO : 978-81-8424-749-7
@@ -86,12 +75,3 @@ National Conferences
 **Membership**
 
 A.M.I.E. - Associate Member of Institution of Engineers (India)
-
-
-### Current Position
-
-I am doing an innovative project, "**Experimental Investigation of underwater Missile Launching System**" at *Madras Institute of Technology, Chennai*. This Project is selected and funded by *Institution of Engineers-India*, R&D scheme.
-
-#Contact me
-
-[sebastinaero@gmail.com](sebastinaero@gmail.com)
