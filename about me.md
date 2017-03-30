@@ -5,11 +5,6 @@ permalink: /about/
 ---
 
 # Mr.SARATHKUMAR SEBASTIN.J
-"Excellence is a continuous Process, *not an accident*. Man needs his **difficulties** because they are neccessary to enjoy **success**. -*APJ Abdul Kalam*
-
-
-
-**My Personal Details**
 
 * E-mail: sebastinaero@gmail.com
 * contact:7639972833
