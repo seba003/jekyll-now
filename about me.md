@@ -11,13 +11,13 @@ permalink: /about/
 
 **My Personal Details**
 
-[e-mail](sebastinaero@gmail.com)
-contact:7639972833
-D.O.B:04.06.1992
-Father: A.John
-Mother: J.Mariya Arockiam
-Blood group: B +ve
-Address: Nedodai, Puliyadi thammam post, Sivaganga DT-630405, Tamilnadu, India.
+* [e-mail](sebastinaero@gmail.com)
+* contact:7639972833
+* D.O.B:04.06.1992
+* Father: A.John
+* Mother: J.Mariya Arockiam
+* Blood group: B +ve
+* Address: Nedodai, Puliyadi thammam post, Sivaganga DT-630405, Tamilnadu, India.
 
 **Current Position**
 
