@@ -81,7 +81,7 @@ We can use many alternative energy sources in the torpedo tube. The possible alt
 * Chemical energy
 * Electromagnetic energy
 
-**Electromagnetic energy source**
+### Electromagnetic energy source
 The high current, high voltage from the capacitor bank helps to generate Lorentz force perpendicular to the current direction forces the missile to come over the water surface. The following figure represents the experimental setup of making Lorentz force.
 
 <img src= "/images/sulms/rail gun.jpg" width= "500px">
