@@ -87,7 +87,10 @@ The high current, high voltage from the capacitor bank helps to generate Lorentz
 
 <img src= "/images/sulms/rail gun.jpg" width= "500px">
 
+
 ## Missile Unit
+
+As i discussed in my first post, the following contents will describe the missile unit in the SULMS system.
 
 **SOLID PROPELLANT PREPARATION AND TESTS**
 
