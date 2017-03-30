@@ -86,5 +86,17 @@ The high current, high voltage from the capacitor bank helps to generate Lorentz
 
 <img src= "/images/sulms/rail gun.jpg" width= "500px">
 
+## Missile Unit
+
+**SOLID PROPELLANT PREPARATION AND TESTS**
+
+In this topic, the knowledge of solid propellant motor is discussed. A small scaled solid propellant missile was fabricated and the tests were carried out.
+
+*SOLID PROPELLANT MISSILES*
+
+Solid propellant can remain in storage for long periods, and then reliably launch on short notice, they have been frequently used in military applications such as missiles.
+The following figure represents that, A simple solid propellant motor consists of a casing, nozzle, grain (propellant charge), and igniter. The grain behaves like a solid mass, burning in a predictable fashion and producing exhaust gases. The nozzle dimensions are calculated to maintain a design chamber pressure, while producing thrust from the exhaust gases. Once ignited, a simple solid propellant motor cannot be shut off, because it contains all the ingredients necessary for combustion within the chamber in which they are burned.
+
+
 
 
