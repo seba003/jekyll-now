@@ -3,6 +3,8 @@ layout: post
 title: My past experiences in SULMS
 ---
 
+I would like to share my experiences in SULMS study.
+
 **Missile** is a self propelled flying weapon; it can travel a long distance before exploding at the targeted place. Types of missiles are, 
 
 * Conventional guided missiles
