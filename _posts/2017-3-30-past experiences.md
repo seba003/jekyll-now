@@ -66,8 +66,25 @@ The following lists are the SLBM (Submarine launched ballistic missile) developm
 2.	K-4 (3,500 km) Test fired from Arihant class submarine. 
 3.	K-5 (6,000 km) – Under development
 
+<img src= "/images/sulms/slbm.jpg" width= "100px">
+
 From the above figure, it is noted that, missiles have to be launched from submarine by a mass driver. It may be hydraulic, pneumatic, mechanical or any other energy sources as mass driver. It implies that, the efficient mass driver needed for the better performance. The conventional mass drivers for SLBM are Torpedo tube.
 
 ### Torpedo Tube
 
-It is a tube in a submarine from which missiles are launched by the use of compressed air or an explosive charge. It is a cylindrical shaped device, and it is a more complex mechanism than a torpedo tube on a surface ship. Because the tube has to accomplish the function of moving missile from the normal atmospheric pressure within the submarine into the sea at the ambient pressure of the water around the submarine. Thus a submarine torpedo tube operates on the principle of an airlock. See more about [torpedo tube.](https://en.wikipedia.org/wiki/Torpedo_tube)
+It is a tube in a submarine from which missiles are launched by the use of compressed air or an explosive charge. It is a cylindrical shaped device, and it is a more complex mechanism than a torpedo tube on a surface ship. Because the tube has to accomplish the function of moving missile from the normal atmospheric pressure within the submarine into the sea at the ambient pressure of the water around the submarine. Thus a submarine torpedo tube operates on the principle of an airlock. See more about [torpedo tube.](https://en.wikipedia.org/wiki/Torpedo_tube) Early French submarines use pistons to push the missiles outside the tube, instead of blowing it out with compressed air. 
+
+We can use many alternative energy sources in the torpedo tube. The possible alternative energy sources are,
+
+* Mechanical energy (Piston/spring)
+* Pneumatic energy/hydraulic energy
+* Chemical energy
+* Electromagnetic energy
+
+**Electromagnetic energy source**
+The high current, high voltage from the capacitor bank helps to generate Lorentz force perpendicular to the current direction forces the missile to come over the water surface. The following figure represents the experimental setup of making Lorentz force.
+
+<img src= "/images/sulms/rail gun.jpg" width= "70px">
+
+
+
