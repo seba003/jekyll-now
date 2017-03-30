@@ -3,8 +3,6 @@ layout: post
 title: My past experiences in SULMS
 ---
 
-The purpose of this post is to provide the fundamental thoughts of submerged launching ballistic missile (SLBM) development. It also helps to understand the operations involved in SLBM launching, and the purpose of mass driver in SLBM. 
-
 **Missile** is a self propelled flying weapon; it can travel a long distance before exploding at the targeted place. Types of missiles are, 
 
 * Conventional guided missiles
