@@ -66,7 +66,7 @@ The following lists are the SLBM (Submarine launched ballistic missile) developm
 2.	K-4 (3,500 km) Test fired from Arihant class submarine. 
 3.	K-5 (6,000 km) – Under development
 
-<img src= "/images/sulms/slbm.jpg" width= "100px">
+<img src= "/images/sulms/slbm.jpg" width= "500px">
 
 From the above figure, it is noted that, missiles have to be launched from submarine by a mass driver. It may be hydraulic, pneumatic, mechanical or any other energy sources as mass driver. It implies that, the efficient mass driver needed for the better performance. The conventional mass drivers for SLBM are Torpedo tube.
 
@@ -84,7 +84,7 @@ We can use many alternative energy sources in the torpedo tube. The possible alt
 **Electromagnetic energy source**
 The high current, high voltage from the capacitor bank helps to generate Lorentz force perpendicular to the current direction forces the missile to come over the water surface. The following figure represents the experimental setup of making Lorentz force.
 
-<img src= "/images/sulms/rail gun.jpg" width= "70px">
+<img src= "/images/sulms/rail gun.jpg" width= "500px">
 
 
 
