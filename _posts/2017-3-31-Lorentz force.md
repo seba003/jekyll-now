@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding of Lorentz force in SULMS
+title: Importance of Lorentz force in SULMS
 ---
 
 I have posted this technical content to provide the fundamental thoughts of Electromagnetic force and its importance in the proposed research
