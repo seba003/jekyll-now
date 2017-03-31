@@ -21,4 +21,4 @@ The forecasting model of SULMS is shown in the below figure.
 
 <img src= "/images/sulms/sulms model.jpg" width= "500px">
 
-SULMS is capable of being launched from underwater from a depth of 2-3 metres. The SULMS has unique configuration similar to the submarine missile launching system.
+SULMS is capable of being launched from underwater from a depth of 8-10 metres. The SULMS has unique configuration similar to the submarine missile launching system.
