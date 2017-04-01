@@ -42,7 +42,6 @@ ANSYS 15, AutoCAD, C –Program.
 
 * GATE 2015 – AIR rank 398 – Aerospace Engineering
 * GATE 2013 – AIR rank 560 – Aerospace Engineering
-* My M.E. project “Experimental Investigation of Underwater Launching Missile System” is selected and funded by IEI-India.
 * Best paper award - Polyphenylene Sulfide Composites – Sathyabama University, Chennai.
 
 **Journal Publications**
