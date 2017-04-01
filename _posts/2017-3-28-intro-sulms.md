@@ -27,7 +27,7 @@ India has given much importance to the underwater missile technology. K-4 is a n
 * A muzzle door (a sealed cap) is fitted on top of the electromagnetic launcher, helps to avoid water flow inside the electromagnetic launcher. Once the armature is launched, muzzle door would be broken, provided initial momentum to the armature and allows the armature to the water surface. 
 
 **Existing system          |Proposed research**
----------------     |     -----------------
+  ---------------     |     -----------------
 Mass driver – Air Compressor | Mass driver – Electromagnetic system
 Missile launcher – Torpedo tube | Missile launcher – Rail-armature tube
 Simple design             | Complicated design
