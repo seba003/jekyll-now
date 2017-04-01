@@ -5,7 +5,7 @@ title: Introductory thoughts of my proposed research
 
 ## A Way is begun for Underwater Launching Missile Technology
 
-Long ago (in 11th century), gun powder and the fire arrow started rocket technology; On Feb. 15, 2017, PSLV-C37 launched 104 satellites into orbit on one single rocket. Origin from Fire arrow to satellite mission have come across lot of technology development. This technology development growth provided many ideas in aerospace propulsion. The following underwater launching missile technology is an added mission, can be used in Submarines, and in underwater defence missions.
+Long ago (in 11th century), gun powder and the fire arrow started rocket technology; On Feb. 15, 2017, PSLV-C37 launched 104 satellites into orbit on one single rocket. Origin from Fire arrow to satellite mission, we have come across lot of technology development. This technology development growth provided many ideas in aerospace propulsion. The following underwater launching missile technology is an added mission, can be used in Submarines, and in underwater defence missions.
 
 In early days, Underwater Missile launch development started as the entire system (launch vessels) is required to be surfaced when they fired missiles. This research was started at the end of World War 2. In 1960, US, and Soviet Union succeeded in their underwater missile launching technology, capable being launched from underwater.
 
