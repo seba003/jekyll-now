@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-# Mr.SARATHKUMAR SEBASTIN.J
+# SARATHKUMAR SEBASTIN.J
 
 * E-mail: sebastinaero@gmail.com
 * contact:7639972833
