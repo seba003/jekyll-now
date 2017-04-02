@@ -26,7 +26,7 @@ India has given much importance to the underwater missile technology. K-4 is a n
 * An armature is placed inside the electromagnetic launcher. This armature contains the missile unit. Once the Lorentz force is generated, armature will come up to the water surface, then the armature separation activate the missile unit to propel by its own chemical energy. Then the missile is guided towards the targeted place.
 * A muzzle door (a sealed cap) is fitted on top of the electromagnetic launcher, helps to avoid water flow inside the electromagnetic launcher. Once the armature is launched, muzzle door would be broken, provided initial momentum to the armature and allows the armature to the water surface. 
 
-**Existing system**          |**Proposed research**
+**Existing system**      |**Proposed research**
   ---------------     |     -----------------
 Mass driver – Air Compressor | Mass driver – Electromagnetic system
 Missile launcher – Torpedo tube | Missile launcher – Rail-armature tube
